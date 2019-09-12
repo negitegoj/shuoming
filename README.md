@@ -29,7 +29,7 @@
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826200931.png)  
 #### [sstap教程](https://www.i5seo.com/sstap-accelerator-jedi-juediqiusheng.html "悬停显示")  如果一分钟没注入可能数据被墙或网络原因  多试几次或者打开更新网盘下载sstap解压运行sstap.exe 选择不代理中国IP连接上 重新打开软件等待注入就行|(sstap不需要一直开着,注入的时候开着就行,注入后可以关了)  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826201549.png)  
-#### sstap节点可能会失效  如失效可以去   [注册获取节点](http://ssr.bingly.cn "悬停显示")  
+#### sstap节点可能会失效  如失效可以用 [临时邮箱](http://www.yopmail.com/zh/email-generator.php "悬停显示")    [注册获取节点](http://qiusudu.com "悬停显示")  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827094738.png)  
 #### 然后去训练模式测试  首次需要设置LOL快捷指定攻击设置为U键  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826202235.png)  
