@@ -24,9 +24,9 @@
 ## 小黑教程
 #### LOL必须无边框运行  
 #### wegame设置对局详情改成Ctrl  启动模式改成无边框  不用wegame可以忽略  
-![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826194800.png)  
-#### 启动辅助等待PowerShell窗口出现红字即可          需要关闭辅助关闭PowerShell即可  
-![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826200931.png)  
+![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910183920.png)  
+#### 启动辅助点击ok 等待PowerShell窗口出现红字即可          需要关闭辅助关闭PowerShell即可  
+![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910184047.png)  
 #### [sstap教程](https://www.i5seo.com/sstap-accelerator-jedi-juediqiusheng.html "悬停显示")  如果一分钟没注入可能数据被墙或网络原因  多试几次或者打开更新网盘下载sstap解压运行sstap.exe 选择不代理中国IP连接上 重新打开软件等待注入就行|(sstap不需要一直开着,注入的时候开着就行,注入后可以关了)  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826201549.png)  
 #### sstap节点可能会失效  如失效可以用 [临时邮箱](http://www.yopmail.com/zh/email-generator.php "悬停显示")    [注册获取节点](http://qiusudu.com "悬停显示")  
@@ -34,7 +34,7 @@
 #### 然后去训练模式测试  首次需要设置LOL快捷指定攻击设置为U键  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826202235.png)  
 #### F1开启或关闭菜单  A键走砍  S键清线清野 X补兵  C骚扰  可以在走砍设置里改键位  走砍设置里的(超级重要！延迟/ping/ms)这里设置成你当前游戏延迟
-![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826202321.png) 
+![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png) 
 #### 如果出现这种情况
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827231214.png)   
 #### 下载这个 [下载](https://notepad-plus-plus.org/download "悬停显示")  
