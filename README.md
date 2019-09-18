@@ -34,7 +34,7 @@
 #### 然后去训练模式测试  首次需要设置LOL快捷指定攻击设置为U键  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png)  
 #### F1开启或关闭菜单  A键走砍  S键清线清野 X补兵  C骚扰  可以在走砍设置里改键位  走砍设置里的(超级重要！延迟/ping/ms)这里设置成你当前游戏延迟
-![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png) 
+![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190142.png) 
 #### 如果出现这种情况
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827231214.png)   
 #### 下载这个 [下载](https://notepad-plus-plus.org/download "悬停显示")  
