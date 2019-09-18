@@ -25,7 +25,7 @@
 #### LOL必须无边框运行  
 #### wegame设置对局详情改成Ctrl  启动模式改成无边框  不用wegame可以忽略  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910183920.png)  
-#### 启动辅助点击ok 等待PowerShell窗口出现红字即可          需要关闭辅助关闭PowerShell即可  
+#### 启动辅助等待PowerShell窗口出现红字即可          需要关闭辅助关闭PowerShell即可  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910184047.png)  
 #### [sstap教程](https://www.i5seo.com/sstap-accelerator-jedi-juediqiusheng.html "悬停显示")  如果一分钟没注入可能数据被墙或网络原因  多试几次或者打开更新网盘下载sstap解压运行sstap.exe 选择不代理中国IP连接上 重新打开软件等待注入就行|(sstap不需要一直开着,注入的时候开着就行,注入后可以关了)  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826201549.png)  
