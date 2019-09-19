@@ -26,7 +26,7 @@
 #### wegame设置对局详情改成Ctrl  启动模式改成无边框  不用wegame可以忽略  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910183920.png)  
 #### 启动辅助等待注入完成即可 (正常一分钟左右)         需要关闭辅助关闭PowerShell即可  
-![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910184047.png)  
+![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190919233249.png)  
 #### [sstap教程](https://www.i5seo.com/sstap-accelerator-jedi-juediqiusheng.html "悬停显示")  如果一分钟没注入可能数据被墙或网络原因  多试几次或者打开更新网盘下载sstap解压运行sstap.exe 选择不代理中国IP连接上 重新打开软件等待注入就行|(sstap不需要一直开着,注入的时候开着就行,注入后可以关了)  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826201549.png)  
 #### sstap节点可能会失效  如失效可以用 [临时邮箱](http://www.yopmail.com/zh/email-generator.php "悬停显示")    [注册获取节点](http://qiusudu.com "悬停显示")  
@@ -49,7 +49,6 @@
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827095548.png)  
 #### 这是躲避正常情况下(测试躲避时不要选剑圣那种电脑  因为他们没有控制和指向技能 所以菜单下不会显示他们的可躲避技能)  
 ![](https://github.com/netolaga/-/raw/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827094705.png)  
-#### 躲避谨慎使用
 ## 加入走砍加自动施法  
 #### 目前支持英雄：
 #### 智能施法1:薇恩.图奇.韦鲁斯.布兰德.莫甘娜.卡尔萨斯.克格莫.伊泽瑞尔.卡特琳娜.烬  
