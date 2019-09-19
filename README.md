@@ -25,7 +25,7 @@
 #### LOL必须无边框运行  
 #### wegame设置对局详情改成Ctrl  启动模式改成无边框  不用wegame可以忽略  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910183920.png)  
-#### 启动辅助等待PowerShell窗口出现红字即可 (正常一分钟左右)         需要关闭辅助关闭PowerShell即可  
+#### 启动辅助等待注入完成即可 (正常一分钟左右)         需要关闭辅助关闭PowerShell即可  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910184047.png)  
 #### [sstap教程](https://www.i5seo.com/sstap-accelerator-jedi-juediqiusheng.html "悬停显示")  如果一分钟没注入可能数据被墙或网络原因  多试几次或者打开更新网盘下载sstap解压运行sstap.exe 选择不代理中国IP连接上 重新打开软件等待注入就行|(sstap不需要一直开着,注入的时候开着就行,注入后可以关了)  
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190826201549.png)  
@@ -35,6 +35,7 @@
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png)  
 #### F1开启或关闭菜单  A键走砍  S键清线清野 X补兵  C骚扰  可以在走砍设置里改键位  走砍设置里的(超级重要！延迟/ping/ms)这里设置成你当前游戏延迟
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190142.png) 
+#### 默认只开启走砍 需要开启其他脚本按F6勾选再按F6等待加载好(不用的脚本尽量不勾选)
 #### 如果出现这种情况
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827231214.png)   
 #### 下载这个 [下载](https://notepad-plus-plus.org/download "悬停显示")  
