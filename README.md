@@ -33,7 +33,7 @@
 ![](https://raw.githubusercontent.com/netolaga/-/master/wenj/QQ%E6%88%AA%E5%9B%BE20190827094738.png)  
 #### 然后去训练模式测试  首次需要设置LOL快捷指定攻击设置为U键  
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190107.png)  
-#### F1开启或关闭菜单  A键走砍  S键清线清野 X补兵  C骚扰  可以在走砍设置里改键位  走砍设置里的(超级重要！延迟/ping/ms)这里设置成你当前游戏延迟
+#### F1开启或关闭菜单   可以在走砍设置里按自己习惯改键位  走砍设置里的(超级重要！延迟/ping/ms)这里设置成你当前游戏延迟
 ![](https://github.com/negitegoj/shuoming/raw/master/tupian/QQ%E6%88%AA%E5%9B%BE20190910190142.png) 
 #### 默认只开启走砍 需要开启其他脚本按F6勾选再按F6等待加载好(不用的脚本尽量不勾选)
 #### 如果出现这种情况
